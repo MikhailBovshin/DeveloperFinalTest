@@ -1,0 +1,15 @@
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\bin\Debug\net6.0\DeveloperFinalTest.exe
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\bin\Debug\net6.0\DeveloperFinalTest.deps.json
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\bin\Debug\net6.0\DeveloperFinalTest.runtimeconfig.json
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\bin\Debug\net6.0\DeveloperFinalTest.dll
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\bin\Debug\net6.0\DeveloperFinalTest.pdb
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.csproj.AssemblyReference.cache
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.AssemblyInfoInputs.cache
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.AssemblyInfo.cs
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.csproj.CoreCompileInputs.cache
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.dll
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\refint\DeveloperFinalTest.dll
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.pdb
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\DeveloperFinalTest.genruntimeconfig.cache
+D:\Misha\GeekBrains\DeveloperFinalTest\FinalTestProject\DeveloperFinalTest\obj\Debug\net6.0\ref\DeveloperFinalTest.dll
